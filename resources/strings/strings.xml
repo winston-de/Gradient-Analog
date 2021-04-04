@@ -1,0 +1,58 @@
+<strings>
+
+    <string id="AppName">Simple Times</string>
+    
+    <string id="MilitaryFormatTitle">Use 24 Hour Time</string>
+   	<string id="MF_0">Yes</string>
+   	<string id="MF_1">No</string>
+   	<string id="MF_2">Use System Default</string>
+   	
+   	<string id = "BackgroundColorTitle">Gradient start color</string>
+   	<string id = "BackgroundColorTitle1">Gradient end color</string>
+   	<string id = "ForegroundColorTitle">Tick color</string>
+   	<string id = "BoxColorTitle">Box and arbor color</string>
+   	<string id = "SecondHandColorTitle">Second hand color</string>
+   	<string id = "HourMinHandColorTitle">Hour and minute hand color</string>
+   	<string id = "TextColorTitle">Text and status info color</string>
+   	<string id = "ShowMinTicksTitle">Show ticks for minutes</string>
+   	<string id = "TickStyleTitle">Tick style</string>
+
+   	
+   	<string id = "TS1">None</string>
+   	<string id = "TS2">Dash</string>
+   	<string id = "TS3">Circle</string>
+   	<string id = "TS4">Triangle</string>
+   		
+   	<string id="Color1">Black</string>
+   	<string id="Color2">White</string>
+   	<string id="Color3">Light Gray</string>
+   	<string id="Color4">Dark Gray</string>
+   	<string id="Color5">Blue</string>
+   	<string id="Color6">Dark Blue</string>
+   	<string id="Color7">Red</string>
+   	<string id="Color8">Dark Red</string>
+   	<string id="Color9">Green</string>
+   	<string id="Color10">Dark Green</string>
+   	<string id="Color11">Purple</string>
+   	<string id="Color12">Pink</string>
+   	<string id="Color13">Orange</string>
+   	<string id="Color14">Yellow</string>
+   	
+   	<string id="Image1">Green Camo</string>
+   
+    
+    <string id="ShowTicksTitle">Show ticks around watch face</string>
+    <string id="RightBoxDipslayTitle">Right-hand box display options</string>
+    <string id="SecondHandColorTitle">Second hand color</string>
+    <string id="AlwaysOnTitle">Always update watch face (currently not available on some newer models)</string>
+    <string id="ShowBoxesTitle">Show boxes around text labels</string>
+    
+    <string id="RBD_0">Blank</string>
+    <string id="RBD_1">Time</string>
+    <string id="RBD_2">Steps</string>
+    <string id="RBD_3">Floors Climbed</string>
+    <string id="RBD_4">Calories Burned</string>
+    <string id="RBD_5">Distance</string>
+    <string id="RBD_6">Battery</string>
+
+</strings>
